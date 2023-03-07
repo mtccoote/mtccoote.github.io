@@ -4,3 +4,6 @@
 
 layout: home
 ---
+[Make a donation](https://www.nowdonate.com/checkout/talk-education-partnership) to improve education and health in Uganda's rural primary schools. 
+
+Visit [Donate]({% link donate.markdown %}) to learn more about supporting Talk Education Partnership (TEP).
