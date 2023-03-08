@@ -1,0 +1,41 @@
+---
+layout: page
+title: Governance
+permalink: /governance/
+show_excerpts: 
+---
+<p>TEP is run by a board of trustees, who identify interventions that deliver our charitable purposes and work 
+    together to deliver them.</p>
+<p>Trustees maintain contact with local partners to learn about local needs. You can learn more about our
+    trustees below.</p>
+
+<div class="container">
+<ul class="post-list">
+    {%- for author in site.authors -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{author.position | escape}} • {{ author.date | date: date_format }}</span>
+      <h3>
+        <a class="post-link" href="{{ author.url }}">
+          {{ author.name | escape }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
+  </div>
+
+<p><br/>We encourage local partners to gather data that will demsontrate need, contribute to knowledge and demonstrate 
+    the impact of our interventions.</p>
+
+<style>
+  .container {
+    column-count: 2;
+  }
+  h3 {
+    break-before: avoid-column;
+  }
+</style>

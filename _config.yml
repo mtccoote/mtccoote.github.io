@@ -19,16 +19,18 @@
 # in the templates via {{ site.myvariable }}.
 
 title: talk education partnership
-email: grainger89@btinternet.com
+email: mc.mobo.ad@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   TEP is a charity registered with the Charity Commission for England 
   and Wales (No. 1170858). Working with local partners, TEP supports 
-  teacher training and the development of education infrastructure 
-  in rural Uganda.  
+  schools and teachers to improve primary education in rural Uganda.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://talkeducationpartnership.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mtccoote
-github_username: mtccoote 
+github_username: mtccoote
+collections:
+  authors:
+    output: true
 
 # Build settings
 theme: minima
