@@ -4,7 +4,7 @@ name: Will Knapman
 position: CEO, Founding Trustee
 date: 2016-12-20 12:00:00 +0000
 layout: page
-permalink: /governance/will/
+permalink: /will/
 ---
 Will is a co-founding trustee of TEP, having registered the charity while at university. 
 

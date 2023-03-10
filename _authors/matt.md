@@ -4,7 +4,7 @@ name: Matt Coote
 position: Trustee for Finance
 date: 2022-09-25 12:00:00 +0000
 layout: author
-permalink: /governance/matt/
+permalink: /matt/
 ---
 Matt joined the board of trustees in 2022, taking responsibility for TEP's financial planning, controlling and reporting.
 
