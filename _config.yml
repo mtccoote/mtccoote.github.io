@@ -31,7 +31,7 @@ github_username:
 collections:
   authors:
     output: true
-
+google_analytics: true
 # Build settings
 theme: minima
 plugins:
