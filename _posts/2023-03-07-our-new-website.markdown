@@ -6,7 +6,7 @@ author: Matt
 ---
 Welcome to Talk Education Partnership's (TEP's) new website!
 
-This site emerged from an initiative to minimise the charity's operating costs. It has allowed TEP to cut subcriptions to website-building services and to streamline its domain name service (DNS) providers. 
+This site emerged from an initiative to minimise the charity's operating costs. It has allowed TEP to cut subscriptions to website-building services and to streamline its domain name service (DNS) providers. 
 
 Ongoing costs for TEP's online presence have __fallen by over 80%__ as a result. This leaves us with more money to spend on [our causes]({% link about.markdown %}), and means more of your donations go toward those causes.
 
